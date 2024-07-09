@@ -1,0 +1,23 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "pages": 180,
+    "img": "./gatsby.jpg",
+    "price": 10
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "pages": 220,
+    "img": "./catcher.jpg",
+    "price": 15
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "pages": 300,
+    "img": "./mockingbird.jpg",
+    "price": 20
+  }
+]
